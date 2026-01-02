@@ -1,5 +1,5 @@
 {
-    "name": "transferwise/wise-php",
+    "name": "str4to/wise-php",
     "description": "Wise PHP Library",
     "type": "library",
     "require": {
@@ -16,6 +16,18 @@
         {
             "name": "Albert Xhani",
             "email": "albert.xhani@outlook.com"
+        },
+        {
+            "name": "tobzey",
+            "homepage": "https://github.com/tobzey"
+        },
+        {
+            "name": "gustavomoya89",
+            "homepage": "https://github.com/gustavomoya89"
+        },
+        {
+            "name": "str4to",
+            "homepage": "https://github.com/str4to"
         }
     ],
     "autoload": {
